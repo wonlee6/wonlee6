@@ -23,3 +23,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonlee6&layout=compact" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wonlee6&include_all_commits=true&show_icons=true&theme=ambient_gradient&locale=kr" />
+</p>
+
