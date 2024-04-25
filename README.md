@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/react-f1f3f5.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   <img src="https://img.shields.io/badge/javascript-f1f3f5.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img src="https://img.shields.io/badge/typescript-f1f3f5.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" /> 
+  <img src="https://img.shields.io/badge/react_native-f1f3f5.svg?style=for-the-badge&logo=react&logoColor=00465B" /> 
 </p>   
 
 <p align="center">
