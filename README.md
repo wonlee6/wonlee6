@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/recoil-f1f3f5.svg?style=for-the-badge&logo=recoil&logoColor=3578E5" /> 
   <img src="https://img.shields.io/badge/next.js-f1f3f5.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
+  <img src="https://img.shields.io/badge/reactquery-f1f3f5.svg?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
 </p>
 
 <p align="center">
